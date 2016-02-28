@@ -4,3 +4,4 @@
 Все этапы будут описаны в моём блоге <a href="http://csscoder.ru/" target="_blank">CSSCODER.RU</a>
 
 * <a href="http://csscoder.ru/post/build_email_1/" target="_blank">Первая часть</a>
+* <a href="http://csscoder.ru/post/build_email_2/" target="_blank">Вторая часть</a>
